@@ -1,5 +1,7 @@
 # Название: ✨ Плагин CubeRace | Гонки Лошадей | Ядро: NetherGames 1.21
 
+Видео обзор: https://vk.com/video-199544980_456239086
+
 ![image](https://github.com/user-attachments/assets/adb46ef8-e479-4fb7-b8ab-b8e4eec6b4b6)
 ![image](https://github.com/user-attachments/assets/f7489aca-5e9e-4227-b290-8b8b32d6e62b)
 ![image](https://github.com/user-attachments/assets/57d79792-eaa6-4b23-a025-90805cf4ec34)
