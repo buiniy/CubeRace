@@ -1,0 +1,9 @@
+name: CubeRace
+main: phpcube\CubeRace
+api: 5.0.0
+version: 1.0.0
+author: "vk.com/phpcube"
+permissions:
+  cmd.race:
+    default: true
+    description: "Гонки"
